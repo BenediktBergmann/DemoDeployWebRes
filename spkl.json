@@ -1,0 +1,26 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug,release",
+      "root": "Webresources/",
+      "solution": "Demo",
+      "files": [
+        {
+          "uniquename": "bebe_/js/demo.js",
+          "file": "js\\demo.js",
+          "description": ""
+        },
+        {
+          "uniquename": "bebe_/html/demo.html",
+          "file": "html\\demo.html",
+          "description": ""
+        },
+        {
+          "uniquename": "bebe_/css/demo.css",
+          "file": "css\\demo.css",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

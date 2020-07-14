@@ -1,0 +1,17 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "outDir": "./WebResources/js/",
+    "sourceMap": false,
+    "target": "es2017",
+    "alwaysStrict": true,
+    "removeComments": true
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ],
+  "include": [
+    "./WebResources/ts/**/*"
+  ]
+}
